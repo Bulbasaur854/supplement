@@ -32,6 +32,7 @@ if [ $? -eq 0 ]; then
   stow bashrc
   stow hyprlock
   stow starship
+  echo "Stow successful"
 else
   exho "Failed to clone the repository"
   exit 1
