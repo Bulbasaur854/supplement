@@ -1,5 +1,4 @@
-#!/bin/sh
-
+#!/bin/bash
 set -e
 
 HYPRLAND_CONFIG="$HOME/.config/hypr/hyprland.conf"

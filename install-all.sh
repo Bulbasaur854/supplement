@@ -1,5 +1,4 @@
-#!/bin/sh
-
+#!/bin/bash
 ./install-stow.sh
 ./install-starship.sh
 ./install-dotfiles.sh

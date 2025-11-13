@@ -1,3 +1,2 @@
-#!/bin/sh
-
+#!/bin/bash
 yay -S --noconfirm --needed stow
